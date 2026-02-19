@@ -1,0 +1,7 @@
+project_id = "kyrhhbcqnkurwgncdhcm"
+
+[functions.gcs-storage]
+verify_jwt = false
+
+[functions.google-calendar]
+verify_jwt = false
